@@ -19,5 +19,6 @@ public class Test2 {
 		
 		System.out.println("we are writting testcases in this annotation");
 		System.out.println("for automation we are using Rest Assured testing");
+
 	}
 }
