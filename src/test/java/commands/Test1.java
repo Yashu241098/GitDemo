@@ -12,4 +12,13 @@ public class Test1 {
 		System.out.println("There are many courses in college");
 		System.out.println("This is Demo1 for Selenium Automation testing");
 	}
+	
+	@Test
+	public void Demo2() {
+		
+		System.out.println("Now we are in clone project");
+		System.out.println("Courses are Maths, Computers, Stats");
+		System.out.println("There are No.of automation testing tools");
+		System.out.println("We are using Java Language");
+	}
 }
